@@ -21,7 +21,7 @@ dependencies {
 }
 
 run {
-    args = ["-a","-r us-east-1","-c"]
+    args = ["-a","-r us-east-1","-c","-d"]
 }
 
 
